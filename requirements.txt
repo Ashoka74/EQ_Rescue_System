@@ -1,0 +1,11 @@
+genai==2.1.0
+ipython==8.23.0
+numpy==2.0.1
+protobuf==5.27.3
+python-dotenv==1.0.1
+Requests==2.32.3
+sodapy==2.2.0
+streamlit==1.36.0
+WMI==1.5.1
+~treamlit==1.25.0
+~treamlit==1.33.0
